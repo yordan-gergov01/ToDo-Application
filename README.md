@@ -12,6 +12,11 @@ This is a simple ToDo application built with HTML, CSS, and JavaScript that uses
 - **Confirmation Dialog**: Prompts users to confirm before discarding unsaved changes.
 - **Responsive Design**: The application is designed to be responsive and works on different screen sizes.
 
+  ![todo app 1](https://github.com/user-attachments/assets/c18269d7-d631-4b0d-b5e0-3a8cf7a6c233)
+![todo app 2](https://github.com/user-attachments/assets/0934ba88-b205-4795-904f-90ca556477c1)
+![todo app 3](https://github.com/user-attachments/assets/090bd05d-e99d-43b3-b15b-b103c593d5aa)
+
+
 ## Technologies Used
 
 - **HTML**: For the structure of the application.
